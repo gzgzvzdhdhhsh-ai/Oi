@@ -1,0 +1,7 @@
+{
+  "name": "LiveVoice",
+  "description": "Live group voice chat party room with real-time seat audio networking, stage mic, gifts, and chat",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
